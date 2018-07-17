@@ -1,0 +1,83 @@
+
+
+h1 {
+
+   font-family: impact, ariel;
+   font-size: 100px;
+   text-align: center;
+
+  
+  }
+
+  .main {
+  	text-align: center;
+  }
+
+  h2 {
+  	font-family: futura, candara;
+  	font-size: 30px;
+  	margin-top: 10px;
+  }
+
+ .button {
+    font-family: : impact, ariel;
+  	width: 100px;
+  	height: 50px;
+    padding: 10px;
+    visibility: hidden;
+  
+  }
+
+
+  #att {
+    border-color: red;
+    border-width: 10px;
+    border-radius: 10px;
+
+
+  }
+
+    #def {
+   border-color: blue;
+    border-width: 10px;
+    border-radius: 10px;
+  }
+
+  #fire {
+    border-color: yellow;
+    border-width: 10px;
+    border-radius: 10px;
+
+
+  }
+
+  #char1 {
+
+    width: 280px;
+    height: 380px;
+
+  }
+
+  #char {
+
+    width: 180px;
+    height: 280px;
+    position: fixed;
+    left: 300px;
+    top: 280px;
+    visibility: hidden;
+
+  
+  }
+
+  #hph {
+    margin-left: 350px;
+    visibility: hidden;
+
+  }
+
+  #hpe {
+    margin-left: 1050px;
+    margin-bottom: -50px;
+    visibility: hidden;
+  }
