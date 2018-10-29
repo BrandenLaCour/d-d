@@ -2,6 +2,8 @@
 
 ## A turn based game of the D&D style through use of javascript.
 
-### I will continue updating it and increasing the scope of it. It currently is just vanilla javascript, css, and html.
+It currently is just vanilla javascript, css, and html.
+
+Check out the game here: https://brandenlacour.github.io/d-d/
 
 
